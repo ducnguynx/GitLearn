@@ -1,5 +1,3 @@
-Hello git
-new branch h
-asdasdere
-from DUCC
-dev1
+Hello dev1
+IN
+
